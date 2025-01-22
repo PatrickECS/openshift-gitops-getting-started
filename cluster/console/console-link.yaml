@@ -3,9 +3,9 @@ kind: ConsoleLink
 metadata:
   name: application-menu-rh-developer-blog
 spec:
-  href: https://developers.redhat.com/articles/2024/10/07/manage-microshift-red-hat-advanced-cluster-management-and-openshift-gitops#
+  href: https://www.arrow.com/globalecs/de/produkte/
   location: ApplicationMenu
-  text: RHACM Microshift
+  text: Arrow Portfolio
   applicationMenu:
     section: Kubernetes Blogs
     imageURL: https://i.ibb.co/pZ0Lxdb/Logo-Red-Hat-Hat-Color-RGB.png
