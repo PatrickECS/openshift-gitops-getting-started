@@ -7,5 +7,5 @@ spec:
   location: ApplicationMenu
   text: Arrow Portfolio
   applicationMenu:
-    section: Kubernetes Blogs
+    section: Arrow Portfolio
     imageURL: https://i.ibb.co/pZ0Lxdb/Logo-Red-Hat-Hat-Color-RGB.png
