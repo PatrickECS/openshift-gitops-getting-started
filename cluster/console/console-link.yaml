@@ -3,9 +3,9 @@ kind: ConsoleLink
 metadata:
   name: application-menu-rh-developer-blog
 spec:
-  href: https://www.arrow.com/globalecs/de/produkte/
+  href: https://www.redhat.com/en/blog/using-red-hat-advanced-cluster-management-and-openshift-gitops-to-manage-openshift-virtualization
   location: ApplicationMenu
-  text: Arrow Portfolio
+  text: Managing RHACM OCP-V 
   applicationMenu:
-    section: Arrow Portfolio
+    section: Red Hat Blog
     imageURL: https://i.ibb.co/pZ0Lxdb/Logo-Red-Hat-Hat-Color-RGB.png
