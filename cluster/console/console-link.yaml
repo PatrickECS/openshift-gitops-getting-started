@@ -5,7 +5,7 @@ metadata:
 spec:
   href: https://www.redhat.com/en/blog/using-red-hat-advanced-cluster-management-and-openshift-gitops-to-manage-openshift-virtualization
   location: ApplicationMenu
-  text: Managing RHACM OCP-V 
+  text:  RHACM OCP-V 
   applicationMenu:
     section: Red Hat Blog
     imageURL: https://i.ibb.co/pZ0Lxdb/Logo-Red-Hat-Hat-Color-RGB.png
