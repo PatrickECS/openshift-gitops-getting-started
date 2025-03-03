@@ -5,7 +5,7 @@ metadata:
 spec:
   href: https://www.youtube.com/watch?v=iljDBc3o490
   location: ApplicationMenu
-  text:  Arrow Portfolio
+  text: AiLab presentation
   applicationMenu:
     section: Arrow AI Lab
     imageURL: https://upload.wikimedia.org/wikipedia/commons/0/04/Arrow_Electronics_logo.svg
