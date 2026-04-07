@@ -1,0 +1,19 @@
+apiVersion: console.openshift.io/v1
+kind: ConsoleNotification
+metadata:
+  name: bottom-banner
+  namespace: openshift-config
+  labels:
+    argocd.argoproj.io/managed-by: openshift-gitops
+spec:
+  location: BannerBottom
+  text: >-
+    This system is restricted to authorized users only!
+    This cluster is for Virtualization workloads only!
+    Do not install any operators without permissions of an Arrow Administrator!
+    Use resources wisely, name projects meaningfully and delete them, when no longer needed!
+  link:
+    text: The Arrow EMEA AI-Lab Team
+    href: 'https://www.linkedin.com/posts/christianpallinder_arrowailab-theplatformforai-activity-7309648169225666560-vVEW?utm_source=share&utm_medium=member_desktop&rcm=ACoAADtoLjMB4pcGW8oSJBdT_b4R4bgL7dHnPzc'
+  color: '#fff'
+  backgroundColor: 'green'
