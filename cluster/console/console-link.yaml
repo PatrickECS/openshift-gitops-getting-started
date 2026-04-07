@@ -1,7 +1,7 @@
 apiVersion: console.openshift.io/v1
 kind: ConsoleLink
 metadata:
-  name: ai-lab
+  name: custom-link
 spec:
   href: https://www.youtube.com/watch?v=iljDBc3o490
   location: ApplicationMenu
